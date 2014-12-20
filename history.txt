@@ -1,0 +1,500 @@
+    9  ls
+   10  ./star2.sh 
+   11  ./start-pgmodeler.sh 
+   12  rm -rf pgmodeler
+   13  cp pgmodeler.vars pgmodeler
+   14  ./start-pgmodeler.sh 
+   15  pwd
+   16  su
+   17  ssh david@virt
+   18  ssh david@virt
+   19  cd SYNC_CLOUD/repos/
+   20  git clone git@bitbucket.org:djperalta/trans_avila.git
+   21  ls
+   22  git clone git@bitbucket.org:djperalta/tramite_documentario.git
+   23  ifconfig 
+   24  ifconfig 
+   25  ifconfig 
+   26  ping 8.8.8.8
+   27  ping 8.8.8.8
+   28  ifconfig 
+   29  ping 8.8.8.8
+   30  ping 8.8.8.8
+   31  ping 8.8.8.8
+   32  ping openerpflex.com
+   33  ssh ubuntu@openerpflex.com
+   34  cd /tmp/
+   35  git clone git@bitbucket.org:djperalta/granjaveliz.git
+   36  cd MdCharm-1.2.0/
+   37  ls -a
+   38  cd ../cloose-CuteMarkEd-49ca90c/
+   39  ls -a
+   40  nano .gitattributes 
+   41  nano .gitmodules 
+   42  ping openerpflex.com
+   43  su
+   44  ssh david@virt
+   45  ping 8.8.8.8
+   46  ping 8.8.8.8
+   47  ssh david@virt
+   48  cd SYNC_CLOUD/repos/tramite_documentario/
+   49  cd ..
+   50  grep -R "attrs" tramite_documentario/
+   51  cd Descargas/
+   52  cd Komodo-Edit-8.5.4-14424-linux-x86_64/
+   53  ls
+   54  ./install.sh 
+   55  ls
+   56  cd
+   57  ssh david@virt
+   58  cd 
+   59  cd Komodo-Edit-8/
+   60  ls
+   61  ls
+   62  export PATH="/home/david/Komodo-Edit-8/bin:$PATH"
+   63  export PATH="/home/david/Komodo-Edit-8/bin:$PATH"
+   64  ln -s "/home/david/Komodo-Edit-8/bin/komodo" /usr/local/bin/komodo
+   65  komodo 
+   66  su
+   67  df -h
+   68  ping openerpflex.com
+   69  ssh ubuntu@openerpflex.com
+   70  ssh david@virt
+   71  htop
+   72  ifconfig 
+   73  su
+   74  ssh david@virt
+   75  cd SYNC_CLOUD/
+   76  grep -R "delete(" repos/ehotel_Holimpo_2CSgroup/ --include=*.py
+   77  grep -R "unlink(" repos/ehotel_Holimpo_2CSgroup/ --include=*.py
+   78  nano repos/ehotel_Holimpo_2CSgroup/ehotel_booking_head/ehotel_booking_head.py
+   79  nano repos/ehotel_Holimpo_2CSgroup/ehotel_booking_head/ehotel_booking_head.py
+   80  ls -Z aria2/
+   81  ls -Z aria2
+   82  cd
+   83  su
+   84  ssh ubuntu@fos
+   85  ssh david@virt
+   86  ping openerpflex.com
+   87  ssh ubuntu@openerpflex.com
+   88  ssh ubuntu@openerpflex.com
+   89  ssh david@amapuy.com
+   90  ssh david@trans-fidcer.com
+   91  ssh david@virt
+   92  ssh 190.40.21.19
+   93  ssh ubuntu@190.40.21.19
+   94  su
+   95  cd SYNC_CLOUD/
+   96  ls
+   97  cd ..
+   98  cd SHARED_DIRECTORY_OS/
+   99  ls
+  100  ls videos/
+  101  cd videos/
+  102  ls
+  103  mkdir odoo
+  104  cd odoo/
+  105  youtube-dl -t https://www.youtube.com/watch?v=t7VXfX6rNR4
+  106  ping 192.168.100
+  107  ping 192.168.1.}100
+  108  ping 192.168.1.100
+  109  ifconfig 
+  110  ifconfig 
+  111  ifconfig 
+  112  ifconfig 
+  113  ifconfig 
+  114  ifconfig 
+  115  ifconfig 
+  116  ifconfig 
+  117  ping 8.8.8.8
+  118  ping 8.8.8.8
+  119  ifconfig 
+  120  ifconfig 
+  121  ifconfig 
+  122  ifconfig 
+  123  ifconfig 
+  124  ifconfig 
+  125  ifconfig 
+  126  ifconfig 
+  127  ifconfig 
+  128  ifconfig 
+  129  ifconfig 
+  130  ifconfig 
+  131  ifconfig 
+  132  ifconfig 
+  133  ifconfig 
+  134  ifconfig 
+  135  ifconfig 
+  136  ifconfig 
+  137  ifconfig 
+  138  ifconfig 
+  139  ifconfig 
+  140  ifconfig 
+  141  ifconfig 
+  142  ifconfig 
+  143  ifconfig 
+  144  ifconfig 
+  145  ifconfig 
+  146  ifconfig 
+  147  ifconfig 
+  148  su
+  149  ifconfig 
+  150  ping 8.8.8.8
+  151  ssh david@virt
+  152  cd SHARED_DIRECTORY_OS/
+  153  ls
+  154  cd videos/
+  155  ls
+  156  nano URLS-YTB.txt
+  157  youtube-dl -t -a URLS-YTB.txt 
+  158  ls
+  159  htop
+  160  dh -h
+  161  df -h
+  162  cat /etc/fstab
+  163  du
+  164  cd
+  165  du
+  166  du -sm *
+  167  du -sm * | sort -nr | head -5
+  168  su
+  169  ls -a
+  170  ssh david@trans-avila.com
+  171  ssh david@virt
+  172  ssh david@virt
+  173  cd /tmp/
+  174  git clone https://sixtofarfan@bitbucket.org/sixtofarfan/generate_file_xml.git
+  175  ls
+  176  cd generate_file_xml/
+  177  ls
+  178  git status 
+  179  git status lot
+  180  git lot
+  181  git log
+  182  ls
+  183  rm account_account_template.xml 
+  184  ls
+  185  rm account_account_template.xml 
+  186  python csv_to_xml.py 
+  187  python csv_to_xml.py 
+  188  ls
+  189  rm account_account_template.xml 
+  190  ls
+  191  python csv_to_xml.py 
+  192  ls
+  193  python csv_to_xml.py 
+  194  python csv_to_xml.py 
+  195  python csv_to_xml.py 
+  196  python csv_to_xml.py 
+  197  python csv_to_xml.py 
+  198  ls
+  199  python csv_to_xml.py 
+  200  python csv_to_xml.py 
+  201  nano account_account_template.xml 
+  202  python
+  203  python csv_to_xml.py 
+  204  python csv_to_xml.py 
+  205  python csv_to_xml.py 
+  206  python csv_to_xml.py 
+  207  python csv_to_xml.py 
+  208  python
+  209  python csv_to_xml.py 
+  210  python csv_to_xml.py 
+  211  python csv_to_xml.py 
+  212  python csv_to_xml.py 
+  213  python csv_to_xml.py 
+  214  python csv_to_xml.py 
+  215  python csv_to_xml.py 
+  216  vim plan2.csv 
+  217  vim plan2.csv 
+  218  python csv_to_xml.py 
+  219  python csv_to_xml.py 
+  220  python csv_to_xml.py 
+  221  python csv_to_xml.py 
+  222  python csv_to_xml.py 
+  223  python csv_to_xml.py 
+  224  python csv_to_xml.py 
+  225  python csv_to_xml.py 
+  226  rm account_account_template.xml 
+  227  rm account_account_template.xml 
+  228  python csv_to_xml.py 
+  229  ls
+  230  cat account_account_template.xml 
+  231  cat account_account_template.xml 
+  232  python csv_to_xml.py 
+  233  python csv_to_xml.py 
+  234  python csv_to_xml.py 
+  235  vim plan2.csv 
+  236  nano plan2.csv 
+  237  vim plan2.csv 
+  238  python csv_to_xml.py 
+  239  nano plan2.csv 
+  240  vim plan2.csv 
+  241  python csv_to_xml.py 
+  242  python csv_to_xml.py 
+  243  python csv_to_xml.py 
+  244  ls
+  245  python csv_to_xml.py 
+  246  python csv_to_xml.py 
+  247  python csv_to_xml.py 
+  248  cd /home/david/SYNC_CLOUD/repos/generate_file_xml/
+  249  ls
+  250  python csv_to_xml.py 
+  251  ls
+  252  cat csv_to_xml.py 
+  253  cd /tmp/generate_file_xml/
+  254  python csv_to_xml.py 
+  255  python csv_to_xml.py 
+  256  nano csv_to_xml.py 
+  257  nano plan2.csv 
+  258  python csv_to_xml.py 
+  259  python csv_to_xml.py 
+  260  python csv_to_xml.py 
+  261  python csv_to_xml.py 
+  262  python csv_to_xml.py 
+  263  python csv_to_xml.py 
+  264  python csv_to_xml.py 
+  265  python csv_to_xml.py 
+  266  python csv_to_xml.py 
+  267  python csv_to_xml.py 
+  268  python csv_to_xml.py 
+  269  rm account_account_template.xml 
+  270  python csv_to_xml.py 
+  271  nano csv_to_xml.py 
+  272  nano csv_to_xml.py 
+  273  python csv_to_xml.py 
+  274  python csv_to_xml.py 
+  275  rm account_account_template.xml 
+  276  python csv_to_xml.py 
+  277  su
+  278  exit
+  279  ls
+  280  ifconfig 
+  281  ls
+  282  ssh david@virt
+  283  ssh david@virt
+  284  cd /tmp
+  285  ls
+  286  tar -xvf firefox-35.0a2.es-ES.linux-x86_64.tar.bz2 firefox/
+  287  cd /home/david/Descargas/firefox/
+  288  ls
+  289  ll
+  290  ls
+  291  ./firefox
+  292  df -h
+  293  cd ../pycharm-community-4.0.1/
+  294  cd bin/
+  295  ls
+  296  ./pycharm.sh 
+  297  cd ..
+  298  cd ..
+  299  cd pycharm-4.0.1/
+  300  ls
+  301  cd bin/
+  302  ls
+  303  ./pycharm.sh 
+  304  ./pycharm.sh 
+  305  ./pycharm.sh 
+  306  htop
+  307  cd /tmp/
+  308  git clone https://github.com/ingadhoc/odoo-addons.git
+  309  ls
+  310  cd odoo-addons/
+  311  s
+  312  ls
+  313  ls
+  314  git status 
+  315  git log 
+  316  ls
+  317  cd account_check/
+  318  ls
+  319  cd models/
+  320  ls
+  321  git branch 
+  322  git branch -a
+  323  git checkout 7.0 
+  324  git branch 
+  325  git branch 
+  326  lsls
+  327  ls
+  328  cd ..
+  329  cd ..
+  330  ls
+  331  git branch 
+  332  git checkout master 
+  333  git branch -a
+  334  git fetch 
+  335  git checkout 7.0 
+  336  git branch 
+  337  git log 
+  338  ls
+  339  git checkout master 
+  340  git branch 
+  341  cd account_check/
+  342  ls
+  343  ls
+  344  cd models/
+  345  vim account_checkbook.py 
+  346  tig 
+  347  ssh david@virt
+  348  ssh ubuntu@openerpflex.com
+  349  exit
+  350  cd SYNC_CLOUD/kvm_images/
+  351  ls
+  352  cp ubuntu-14.04-server-amd64.img.BKP ubuntu-14.04-server-amd64-two.img
+  353  ls -l
+  354  su
+  355  cd
+  356  docker info
+  357  su
+  358  df -h
+  359  docker commit 025b5919fcd1 ubuntu
+  360  su
+  361  ssh ubuntu@openerpflex.com
+  362  su
+  363  cd SHARED_DIRECTORY_OS/videos/
+  364  youtube-dl -t https://www.youtube.com/watch?v=e6B_Y_tGFDE
+  365  docker ps
+  366  cd
+  367  ifconfig 
+  368  curl localhost:49156
+  369  curl localhost:49155
+  370  curl localhost:49156
+  371  tmux 
+  372  su
+  373  su
+  374  su
+  375  su
+  376  ifconfig 
+  377  su
+  378  ssh david@virt
+  379  ssh ubuntu@openerpflex.com
+  380  su
+  381  cd SYNC_CLOUD/aria2/
+  382  ls
+  383  aria2c ftp://fedora.gtdinternet.com/pub/Linux/Fedora/linux//releases/21/Workstation/x86_64/iso/Fedora-Live-Workstation-x86_64-21-5.iso
+  384  su
+  385  su
+  386  su
+  387  ssh ubuntu@openerpflex.com
+  388  ssh david@virt
+  389  cd SYNC_CLOUD/repos/ehotel_Holimpo_2CSgroup/
+  390  grep -R "comb"
+  391  nano ehotel_sale_order/ehotel_sale_order.xml
+  392  grep -R "pry"
+  393  grep -R "prio"
+  394  nano ehotel_habitacion/product_category_room_holimpo.xml
+  395  htop
+  396  su
+  397  ssh david@virt
+  398  ssh david@virt
+  399  cd .config/sublime-text-3/Packages/
+  400  ls
+  401  git clone https://github.com/SublimeLinter/SublimeLinter3.git SublimeLinter
+  402  ls
+  403  ls User/
+  404  cp -r SublimeLinter User/
+  405  ls User/
+  406  ld -l
+  407  l -l
+  408  ls -l
+  409  alsamixer 
+  410  cd
+  411  cd SYNC_CLOUD/repos/
+  412  cd ehotel_Holimpo_2CSgroup/
+  413  grep -R "inner"
+  414  nano report/sale_order_guest_checkin.py
+  415  ssh david@virt
+  416  nano report/sale_order_guest_checkin.py
+  417  ssh david@virt
+  418  cd SYNC_CLOUD/repos/ehotel_Holimpo_2CSgroup/
+  419  grep -R "inner"
+  420  nano ehotel_res_partner/report/report_guest.py
+  421  grep -R "inner"
+  422  nano ehotel_res_partner/report/report_guest.py
+  423  nano ehotel_room_day/report/ehotel_room_day_report.py
+  424  grep -R "where"
+  425  grep -R "between"
+  426  nano ehotel_gestion_diaria/ehotel_gestion_diaria_wizard.py
+  427  nano ehotel_room_day/report/ehotel_room_day_report.py
+  428  su
+  429  ssh david@virt
+  430  su
+  431  su
+  432  su
+  433  dig trans-avila.com
+  434  ssh david@107.170.51.15
+  435  dig ytbplay.amapuy.com
+  436  ssh david@virt
+  437  htop
+  438  ssh david@virt
+  439  ssh david@virt
+  440  su
+  441  su
+  442  htop
+  443  ssh david@virt
+  444  ssh david@virt
+  445  cd /tmp/
+  446  ls
+  447  mkdir branch
+  448  cd branch/
+  449  git init 
+  450  git branch 
+  451  git branch 
+  452  touch file1.txt file2.txt
+  453  ls
+  454  ls
+  455  git add .
+  456  ls -a
+  457  ls
+  458  ls
+  459  git status 
+  460  git commit -am "Init repo"
+  461  git status 
+  462  git branch 
+  463  git branch 
+  464  git checkout -b v8
+  465  git checkout -b v9
+  466  git checkout -b v10
+  467  git checkout -b v10
+  468  git branch 
+  469  git checkout v8 
+  470  git branch 
+  471  ls
+  472  touch file3.txt
+  473  ls
+  474  git status 
+  475  git add file3.txt 
+  476  git commit -am "add file3.txt"
+  477  git status 
+  478  ls
+  479  git checkout master 
+  480  git branch 
+  481  git branch -a
+  482  git checkout v8 
+  483  git branch 
+  484  ls
+  485  ls
+  486  git log 
+  487  git checkout 47b383e8c03132b167a2cb4c24aed54aff179eef
+  488  git branch 
+  489  ls
+  490  git branch 
+  491  cd /media/david/KINGSTON
+  492  ls
+  493  cd MODULOS\ ODOO8/
+  494  ls
+  495  cd nanotec_healt_partner/
+  496  ls
+  497  git status 
+  498  ls -a
+  499  ls -la
+  500  tmux
+  501  cd /tmp/
+  502  ls
+  503  touch repo01 repo02
+  504  rm -rf repo01 repo02
+  505  mkdir repo01 repo02
+  506  cd repo01/
+  507  git init 
+  508  history > history.txt
